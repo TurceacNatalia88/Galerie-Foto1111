@@ -1,0 +1,35 @@
+ody {
+    background-color: powderblue;
+  }
+  h1 {
+    color: blue;
+  }
+
+
+img{
+    
+    width: 50%;
+    height: 50%;
+    border: 6px;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    z-index: -1;
+}
+
+div.relative {
+    position: relative;
+    width: 400px;
+    height: 200px;
+    border: 10px solid #73AD21;
+  }
+  
+  div.absolute {
+    position: absolute;
+    top: 80px;
+    right: 0;
+    width: 200px;
+    height: 100px;
+    border: 10px solid #db5e15;
+  }
+
